@@ -2,7 +2,7 @@
 
 I - WorkBox 
 
-1) Listé des fonctionnalités offertes
+1) Listé des fonctionnalités offertes :
 
 - Passage hors ligne (Offline) => Les bases de l'écriture d'un service worker pour mettre en cache et servir du contenu hors ligne
 -	Travailler avec Workbox => Utiliser Workbox pour écrire votre service worker
@@ -37,7 +37,7 @@ staleWhileRevalidate :
 
 - Use Case => Un blog où les articles sont mis à jour de façon périodique, il est possible d'afficher d'abord le contenu en cache tout en mettant à jour les données en arrière-plan.
 
-3) uses cases à intégrer dans le projet doctoliberal
+3) uses cases à intégrer dans le projet doctoliberal :
 
 networkFirst : Recherche de praticiens, la liste des praticiens est garantie d’être à jours (d’avoir les plus récents)
 
@@ -52,7 +52,7 @@ staleWhileRevalidate : Chargement de documents lié aux factures, ordonnances.
   
 II - Page d'incitation à l'installation de PWA
   
-2) Expliquer en quoi il serait intéressant de mettre en place une telle page
+2) Expliquer en quoi il serait intéressant de mettre en place une telle page :
 
 Amélioration de l'expérience utilisateur : 
 - Explication => Les PWA sont installées sur un ordinateur de bureau ou un écran d’accueil mobile, cela les rend accessible et se charge rapidement. L’objectif est d’améliorer la sensation utilisateur favorisant une meilleure expérience plus porche du natif. 
